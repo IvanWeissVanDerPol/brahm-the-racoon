@@ -5,10 +5,11 @@ import { useState, useEffect } from 'react'
 
 const navLinks = [
   { label: 'Music', href: '#music' },
+  { label: 'Live', href: '#events' },
   { label: 'Merch', href: '#merch' },
   { label: 'Lyrics', href: '#lyrics' },
   { label: 'About', href: '#about' },
-  { label: 'Contact', href: '#contact' },
+  { label: 'Connect', href: '#contact' },
 ]
 
 export default function HeaderSection() {
