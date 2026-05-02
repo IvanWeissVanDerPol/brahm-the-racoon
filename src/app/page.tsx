@@ -1,0 +1,23 @@
+import HeaderSection from '@/components/sections/header-section'
+import HeroSection from '@/components/sections/hero-section'
+import MusicSection from '@/components/sections/music-section'
+import LyricsSection from '@/components/sections/lyrics-section'
+import AboutSection from '@/components/sections/about-section'
+import ContactSection from '@/components/sections/contact-section'
+import FooterSection from '@/components/sections/footer-section'
+
+export default function Home() {
+  return (
+    <>
+      <HeaderSection />
+      <main>
+        <HeroSection />
+        <MusicSection />
+        <LyricsSection />
+        <AboutSection />
+        <ContactSection />
+      </main>
+      <FooterSection />
+    </>
+  )
+}

@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    image: brahm-the-racoon:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    deploy:
+      replicas: 2
+      labels:
+        - "traefik.enable=true"
+        - "traefik.http.routers.brahm.entrypoints=websecure"
+        - "traefik.http.routers.brahm.rule=Host(`brahm.paragu-ai.com`)"
+        - "traefik.http.routers.brahm.tls=true"
+        - "traefik.http.routers.brahm.tls.certresolver=letsencryptresolver"
+        - "traefik.http.services.brahm.loadbalancer.server.port=3000"
+        - "traefik.docker.network=agent-net"
+    networks:
+      - agent-net
+
+networks:
+  agent-net:
+    external: true

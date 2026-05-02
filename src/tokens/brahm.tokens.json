@@ -1,0 +1,44 @@
+{
+  "$schema": "https://design-tokens.org/draft/2024",
+  "name": "Brahm the Racoon - Brand Tokens",
+  "description": "Dark, moody artist brand — raccoon/moon aesthetic",
+
+  "colors": {
+    "primary": { "value": "#D4956A", "type": "color", "comment": "Warm amber/gold - main accent" },
+    "primaryLight": { "value": "#E8C4A0", "type": "color" },
+    "primaryDark": { "value": "#A07050", "type": "color" },
+    "secondary": { "value": "#7C5CBF", "type": "color", "comment": "Muted purple - secondary accent" },
+    "secondaryLight": { "value": "#A88EE6", "type": "color" },
+    "background": { "value": "#0D0D14", "type": "color", "comment": "Deep near-black" },
+    "backgroundAlt": { "value": "#16161F", "type": "color", "comment": "Slightly lighter" },
+    "surface": { "value": "#1C1C2A", "type": "color", "comment": "Card backgrounds" },
+    "surfaceHover": { "value": "#28283A", "type": "color" },
+    "foreground": { "value": "#E8E4E0", "type": "color", "comment": "Main text" },
+    "muted": { "value": "#8A8698", "type": "color", "comment": "Secondary text" },
+    "border": { "value": "#2A2A3E", "type": "color" },
+    "accent": { "value": "#D4956A", "type": "color" },
+    "moon": { "value": "#F0E68C", "type": "color", "comment": "Moon/candle glow" },
+    "error": { "value": "#E05C5C", "type": "color" },
+    "success": { "value": "#5CB87A", "type": "color" }
+  },
+
+  "typography": {
+    "fontFamily": {
+      "heading": { "value": "'Playfair Display', Georgia, serif", "type": "fontFamily" },
+      "body": { "value": "'Inter', system-ui, sans-serif", "type": "fontFamily" },
+      "accent": { "value": "'Cormorant Garamond', Georgia, serif", "type": "fontFamily" }
+    },
+    "scale": {
+      "h1": { "value": "clamp(2.5rem, 5vw, 4.5rem)", "type": "dimension" },
+      "h2": { "value": "clamp(1.75rem, 3.5vw, 3rem)", "type": "dimension" },
+      "h3": { "value": "clamp(1.25rem, 2.5vw, 2rem)", "type": "dimension" },
+      "body": { "value": "1rem", "type": "dimension" },
+      "small": { "value": "0.875rem", "type": "dimension" }
+    }
+  },
+
+  "spacing": {
+    "section": { "value": "clamp(3rem, 6vw, 6rem)", "type": "dimension" },
+    "container": { "value": "1200px", "type": "dimension" }
+  }
+}
