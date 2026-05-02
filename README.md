@@ -1,8 +1,8 @@
 # Brahm the Racoon — Music Project
 
-Brahm the Racoon is the musical voice of the soft, vulnerable self. Alternative, acoustic, and indie rock — intimate confessions set to melodies that build from whisper to roar.
+Alternative, acoustic, and indie rock — intimate confessions set to melodies that build from whisper to roar.
 
-> *"Brahm isn't a character I play. Brahm is the real one. The Engineer is the armor."*
+> *"Brahm isn't a character. Brahm is the real one. The rest is armor."*
 
 ## Songs
 

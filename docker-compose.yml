@@ -1,11 +1,6 @@
-version: '3.8'
-
 services:
   web:
-    build: .
     image: brahm-the-racoon:latest
-    ports:
-      - "3000:3000"
     environment:
       - NODE_ENV=production
     deploy:

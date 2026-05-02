@@ -10,7 +10,7 @@ export default function MusicSection() {
           Discography
         </h2>
         <p className="text-[#8A8698] mb-12 max-w-lg">
-          Songs from the edge of vulnerability. Alternative, acoustic, indie — music for the ones who feel too much.
+          Alternative, acoustic, indie rock — music for the ones who feel too much.
         </p>
 
         {/* Embedded player placeholder */}

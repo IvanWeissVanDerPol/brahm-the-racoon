@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Brahm the Racoon — Music',
-  description: 'Brahm the Racoon is the musical voice of the soft, vulnerable self. Alternative, acoustic, and indie rock — intimate confessions set to melodies.',
+  description: 'Alternative, acoustic, and indie rock — intimate confessions set to melodies that build from whisper to roar.',
   openGraph: {
     title: 'Brahm the Racoon',
     description: 'Music from the edge of vulnerability.',

@@ -35,7 +35,7 @@ export default function ContactSection() {
               <rect x="2" y="4" width="20" height="16" rx="2" />
               <path d="M22,4L12,13L2,4" />
             </svg>
-            brahm@brahmtheracoon.com
+            hello@brahmtheracoon.com
           </a>
 
           <div className="flex items-center justify-center gap-6 pt-6">

@@ -42,16 +42,16 @@ I am still reaching`,
   {
     id: 'the-engineer',
     title: 'The Engineer',
-    subtitle: 'I learned to be useful before I learned to be loved',
+    subtitle: 'I learned to be useful before I learned to be seen',
     lyrics: `I learned to read the room before I learned to read
 Anticipated every need before it was a need
-The family didn't know what to do with a heart so raw
-So I built a reputation, I built a wall
+I learned young that feelings were a dangerous thing
+So I built a reputation on not needing anything
 
 I'm the one who fixes everything and asks for nothing back
 I'm the one who holds it all together, but I'm about to crack
 
-The Engineer built a fortress around a child who just wanted to be held
+The Engineer built a fortress around a heart that just wanted to be held
 Every problem solved, every fire fought, every battle I felled
 But who fixes the fixer when the fixing is done?
 Who holds the one who holds everyone?
@@ -61,7 +61,7 @@ That needing something back was a weakness to be nursed
 So I became a master of the one-way street
 Giving everything I had, admitting no defeat
 
-The Engineer built a fortress around a child who just wanted to be held
+The Engineer built a fortress around a heart that just wanted to be held
 Every problem solved, every fire fought, every battle I felled
 But who fixes the fixer when the fixing is done?
 Who holds the one who holds everyone?
@@ -195,10 +195,10 @@ Touch starvation`,
 I heard it in every silence, read it in every line
 So I learned to be small, to shrink, to tarry
 
-I became weightless, a ghost in my own home
-Passing through rooms without leaving a trace
-I learned that to be wanted, I had to roam
-Through life without taking up too much space
+I became weightless, a ghost in the peripheries
+Passing through rooms like I had no rightful place
+I learned that to be wanted, I had to stay small
+To take up no space, to have no needs at all
 
 But what if I want to be heavy?
 What if I want to take up room?
@@ -230,38 +230,38 @@ And I am not going anywhere`,
   {
     id: 'undetectable',
     title: 'Undetectable',
-    subtitle: 'U=U. I am not a virus. I am a person.',
-    lyrics: `Not even my family knows the weight I carry
-The secret I hold, the narrative I bury
-I'm HIV-positive, I'm on treatment, I'm undetectable
-Scientifically proven: I am untransmittable
+    subtitle: 'I am still standing. I am breathing. I am here.',
+    lyrics: `I've carried secrets that I've never learned to share
+A truth so heavy that I learned to pretend it wasn't there
+But I'm done hiding, done shrinking, done with the fear
+I am whole, I am worthy, I am standing here
 
 But try telling that to the voice inside my head
 That still hears the stigma of the things unsaid
 That wonders if I'll ever be held without fear
 If anyone will see the man, not the veneer
 
-U equals U — undetectable equals untransmittable
-I've said it so many times it's become a fable
-But how do you tell a heart that's learned to hide
+I've built a fortress, I've worn it like a second skin
+But I'm learning slowly, I'm letting someone in
+How do you tell a heart that's learned to hide
 That it's safe enough to step outside?
 
-I am not a risk
-I am not a disease
+I am not my past
+I am not my shame
 I am a person who survived
-Through the storm and the freeze
+The fire and the rain
 
-I am on treatment, I am healthy, I am here
+I am still standing, I am breathing, I am here
 And I am worthy of love without the fear
 So ask me, hold me, don't look away
 I've been in shadows long enough — I want to stay
 
 In the light, in your arms, in the truth
-Undetectable means I can't hurt you
-And you can't hurt me with your silence anymore
+We are all broken, we are all scared
+But you can't hurt me with your silence anymore
 
-I am undetectable
-But I am here
+I am still here
+Standing, breathing, here
 Fully, completely, without fear`,
     genre: 'Power Ballad',
     duration: '5:15',

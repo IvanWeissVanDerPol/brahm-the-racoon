@@ -27,7 +27,7 @@ export default function HeroSection() {
         </h1>
 
         <p className="font-[family-name:var(--font-accent)] text-xl md:text-2xl text-[#8A8698] italic mb-8 max-w-xl mx-auto">
-          &ldquo;I&apos;ve been reaching my whole life. This is what I found.&rdquo;
+          &ldquo;Some songs are letters you never thought you&apos;d send. These are mine.&rdquo;
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
