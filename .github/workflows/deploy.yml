@@ -1,0 +1,16 @@
+name: Deploy
+on:
+  push:
+    branches: [main]
+jobs:
+  ci:
+    uses: Ai-Whisperers/ci-cd/.github/workflows/ci-nextjs.yml@main
+    with:
+      site-url: 'https://brahm.paragu-ai.com'
+    secrets: inherit
+  deploy:
+    needs: ci
+    uses: Ai-Whisperers/ci-cd/.github/workflows/deploy-vps.yml@main
+    with:
+      site-name: 'brahm'
+    secrets: inherit
